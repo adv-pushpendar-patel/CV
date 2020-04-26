@@ -1,0 +1,119 @@
+body{
+  background-color:#EAF6F6;
+  display: block;
+  font-family: sans-serif;
+  text-align: center;
+}
+.div1{
+  text-align: center;
+  background-color: #66bfbf;
+  font-family: cursive;
+  margin:0px;
+}
+.top-cloud{
+  padding-left: 500px;
+  padding-top: 50px;
+}
+.name{
+  font-size: 4rem;
+  font-family: cursive;
+  margin:5px auto 30px auto;
+}
+.intro{
+  font-size: 30px;
+}
+.lawyer{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  padding-right: 500px;
+  padding-bottom: 50px;
+}
+.profile-intro{
+  width: 80%;
+  margin-left: 150px;
+}
+.profilepic{
+  border-radius: 30px;
+  margin-top: 30px;
+}
+hr{
+  border-style:none;
+  border-color:yellow;
+  border-top-style:dotted;
+  border-width:15px;
+  width:15%;
+}
+h2{
+  font-family: cursive;
+  color: #512b58;
+}
+h3{
+  font-size: 30px;
+  color: #512b58;
+  font-family: sans-serif;
+}
+h4{
+  text-decoration-style: solid;
+  font-weight: bold;
+}
+.mootcourt,.legal-skills-and-analysis,.computer,.language,.organizational,.communications{
+  font-weight: bold;
+}
+.btn {
+	-moz-box-shadow: 0px 0px 0px 2px #9fb4f2;
+	-webkit-box-shadow: 0px 0px 0px 2px #9fb4f2;
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #7892c2), color-stop(1, #476e9e) );
+	background:-moz-linear-gradient( center top, #7892c2 5%, #476e9e 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#7892c2', endColorstr='#476e9e');
+	background-color:#7892c2;
+	-webkit-border-top-left-radius:5px;
+	-moz-border-radius-topleft:5px;
+	border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-moz-border-radius-topright:5px;
+	border-top-right-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	-moz-border-radius-bottomright:5px;
+	border-bottom-right-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-moz-border-radius-bottomleft:5px;
+	border-bottom-left-radius:5px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:cursive;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #283966;
+}.btn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #476e9e), color-stop(1, #7892c2) );
+	background:-moz-linear-gradient( center top, #476e9e 5%, #7892c2 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#476e9e', endColorstr='#7892c2');
+	background-color:#476e9e;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+.footer-links{
+  width:100%;
+  background-color: #00909e;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  margin-top: 40px;
+}
+.footer-link{
+  font-size: 30px;
+  color: #66bfbf;
+  margin: auto 40px auto auto;
+}
+.footer-link:hover{
+  color: blue;
+}
