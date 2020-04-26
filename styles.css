@@ -28,8 +28,7 @@ body{
   padding-bottom: 50px;
 }
 .profile-intro{
-  width: 80%;
-  margin-left: 150px;
+  text-align:center;
 }
 .profilepic{
   border-radius: 30px;
